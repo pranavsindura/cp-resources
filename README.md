@@ -11,13 +11,13 @@ The idea is to have a list of hand-picked resources, that can help everyone get 
 ### Environment
 - [Setting up a Local Environment](https://www.freecodecamp.org/news/how-to-compile-your-c-code-in-visual-studio-code/)
 - Text Editors
- - [Sublime Text](https://www.sublimetext.com/)
- - [VS Code](https://code.visualstudio.com/)
- - [Code::Blocks](http://www.codeblocks.org/)
+	- [Sublime Text](https://www.sublimetext.com/)
+	- [VS Code](https://code.visualstudio.com/)
+ 	- [Code::Blocks](http://www.codeblocks.org/)
 - Online IDEs (not preferred)
- - [GeeksForGeeks IDE](https://ide.geeksforgeeks.org/)
- - [CodeChef IDE](https://www.codechef.com/ide)
- - [IDEOne](https://ideone.com/)
+ 	- [GeeksForGeeks IDE](https://ide.geeksforgeeks.org/)
+ 	- [CodeChef IDE](https://www.codechef.com/ide)
+ 	- [IDEOne](https://ideone.com/)
 
 ### Practice
 - [HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
