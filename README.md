@@ -47,15 +47,31 @@ The idea is to have a list of hand-picked resources, that can help everyone get 
 
 ## Websites / Online Judges
 
-You can register yourself on these Websites/OJs. They have a huge list of problems to solve and blogs to learn from. Some of them will be referenced later on.
+You can register yourself on these Websites/OJs. They have a huge list of problems to solve and blogs to learn from. Some of them will be referenced later on. They also organise contests, where we can compete with others.
 
+<span style="color:red">
 TODO - Write a little about each OJ. Specific uses, best features, what to use them for.
+</span>
 
 - [Hackerrank](https://www.hackerrank.com)
-- [Hackerearth](https://www.hackerearth.com)
+	- Beginner friendly
+	- Good place to learn basics
 - [AtCoder](https://atcoder.jp/home)
-- [Codechef](https://www.codechef.com/)
+	- AtCoder Beginner Contests (ABCs), as the name suggests, great for beginners
 - [Codeforces](https://codeforces.com/)
+	- Weekly contests (Div. 1/2/3/4)
+	- Great blogs, everything from basics to advanced
+- [Codechef](https://www.codechef.com/)
+	- Cook-Off, Lunchtime (short contests)
+	- Monthly Challenge (long contest)
+- [Hackerearth](https://www.hackerearth.com)
+	- Monthly Long Challenge
+	- Hackathons
 - [SPOJ](https://www.spoj.com/)
+	- Classical Problems
 - [UVa](https://uva.onlinejudge.org/) 
+	- [ACM-ICPC](https://icpc.global/) Problems
+	- Usually paired up with the book, [Competitive Programming 3 - Steven, Felix Halim](https://cpbook.net/)
 - [Topcoder](https://www.topcoder.com/)
+	- Amazing blogs
+	- Topcoder SRMs (short contests)
