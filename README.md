@@ -4,9 +4,27 @@ The idea is to have a list of hand-picked resources, that can help everyone get 
 
 ## C++
 
-### Reading 
+### Reading / Watching
 - Let us C - Yashavant Kanetkar
 - Computer Science with C++ - Sumita Arora
+- Standard Template Library
+	- Vector
+	- Iterators
+	- Pair
+	- Set/Multiset
+	- Map/Multimap
+	- Stack
+	- Queue
+	- Deque
+	- Priority Queue
+	- List
+	- Lambda Functions
+	- Custom Comparators
+	- [STL Playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
+	- [STL Demo](https://www.youtube.com/watch?v=g-1Cn3ccwXY)
+	- Topcoder Blogs on STL
+		- [Standard Template Library Part 1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
+		- [Standard Template Library Part 2, A bit advanced](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
 
 ### Environment
 - [Setting up a Local Environment](https://www.freecodecamp.org/news/how-to-compile-your-c-code-in-visual-studio-code/)
@@ -40,3 +58,4 @@ TODO - Write a little about each OJ. Specific uses, best features, what to use t
 - [Codeforces](https://codeforces.com/)
 - [SPOJ](https://www.spoj.com/)
 - [UVa](https://uva.onlinejudge.org/) 
+- [Topcoder](https://www.topcoder.com/)
