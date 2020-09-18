@@ -90,8 +90,7 @@ Participate in contests and learn from other people.
 - Books
 	- Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
 	- [Competitive Programming 3 - Steven Halim, Felix Halim](https://cpbook.net/)
-	- [Competitive Programmer’s Handbook - Antti Laaksonen](https://cses.fi/book/
-	book.pdf)
+	- [Competitive Programmer’s Handbook - Antti Laaksonen](https://cses.fi/book/book.pdf)
 - Playlists
 	- [MIT - Introduction to Algorithms, Fall 2005](https://www.youtube.com/watch?v=JPyuH4qXLZ0&list=PL8B24C31197EC371C)
 	- [MIT - Introduction to Algorithms, Fall 2011](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
