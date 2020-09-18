@@ -20,6 +20,8 @@ The idea is to have a list of hand-picked resources, that can help everyone get 
 	- List
 	- Lambda Functions
 	- Custom Comparators
+		- [Custom Comparators for Containers](https://www.youtube.com/watch?v=sbiF1HDcG7U)
+		- [Lambdas as Comparators](https://www.youtube.com/watch?v=dvLKY-oWqn0)
 	- [STL Playlist](https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb)
 	- [STL Demo](https://www.youtube.com/watch?v=g-1Cn3ccwXY)
 	- Topcoder Blogs on STL
@@ -74,4 +76,4 @@ TODO - Write a little about each OJ. Specific uses, best features, what to use t
 	- Usually paired up with the book, [Competitive Programming 3 - Steven, Felix Halim](https://cpbook.net/)
 - [Topcoder](https://www.topcoder.com/)
 	- Amazing blogs
-	- Topcoder SRMs (short contests)
+	- Topcoder SRMs (short contest)
