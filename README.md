@@ -96,15 +96,12 @@ Participate in contests and learn from other people.
 	- [MIT - Introduction to Algorithms, Fall 2011](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - Blogs
 	- [Awesome List of CP related stuff](https://codeforces.com/blog/entry/23054)
-	- [Tutorials List on Codeforces](https://codeforces.com/blog/entry/57282)
-	- [Tutorials List on Codechef](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
+	- [Tutorials List 1](https://codeforces.com/blog/entry/57282)
+	- [Tutorials List 2](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
+	- [Learning Resources from Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
 
 ### References
 - [CP-Algorithms](https://cp-algorithms.com/)
 - [The On-Line Encyclopedia of Integer Sequences](http://oeis.org/)
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
 	
-
-## TO-DO
-	- Plan content/contest for the CF group
-	- Plan other headings, topic-wise
