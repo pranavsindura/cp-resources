@@ -104,7 +104,9 @@ Participate in contests and learn from other people.
 - [CP-Algorithms](https://cp-algorithms.com/)
 - [The On-Line Encyclopedia of Integer Sequences](http://oeis.org/)
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
-	
+- Competitive Programming 3 
+- Competitive Programmer’s Handbook
+
 Please Use the above Links for reading about the topics mentioned below. The books are extremely helpful for implementation ideas.
 
 ### Tree / Graph
