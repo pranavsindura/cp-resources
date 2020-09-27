@@ -105,3 +105,37 @@ Participate in contests and learn from other people.
 - [The On-Line Encyclopedia of Integer Sequences](http://oeis.org/)
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
 	
+Please Use the above Links for reading about the topics mentioned below. The books are extremely helpful for implementation ideas.
+
+### Tree / Graph
+
+#### Topics
+- Graph Theory
+	- Tree/Graph
+	- Edges/Nodes
+	- Edge Classification
+	- Directed/Undirected
+	- Degrees
+	- Colorings
+	- Weights
+	- Cycles
+	- Connected Components/Strongly Connected Components 
+	- Topological Order
+	- Bipartiteness
+	- Spanning Trees
+	- Diameter
+	- Isomorphism
+	- Centers
+- DS/Algorithms
+	- Graph Representation
+	- BFS/DFS
+	- BFS/DFS on Grid
+	- Topological Sorting
+	- Minimum Spanning Tree
+	- Disjoint Set Union Find (DSU)
+	- Single Source Shortest Path
+	- All Pair Shortest Path
+	- Travelling Salesman Problem
+
+#### Related Contests
+- TBA
