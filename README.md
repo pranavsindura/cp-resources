@@ -131,7 +131,7 @@ Please Use the above Links for reading about the topics mentioned below. The boo
 - DS/Algorithms
 	- Graph Representation
 	- BFS/DFS
-	- BFS/DFS on Grid
+	- [BFS/DFS on Grid](https://codeforces.com/blog/entry/78827)
 	- Topological Sorting
 	- Minimum Spanning Tree
 	- Disjoint Set Union Find (DSU)
@@ -140,4 +140,4 @@ Please Use the above Links for reading about the topics mentioned below. The boo
 	- Travelling Salesman Problem
 
 #### Related Contests
-- TBA
+- [Contest 1](https://codeforces.com/contestInvitation/03cd6c537e79e4d060d3198949e66eef22c01edd)
