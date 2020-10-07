@@ -79,7 +79,7 @@ You can register yourself on these Websites/OJs. They have a huge list of proble
 - [CSES Problem Set](https://cses.fi/problemset/list/)
 	- Good introductory problems
 
-## Algorithms
+## Algorithms and Data Structures
 Important part of CP is to learn algorithms and techniques, practice problems, and to develop algorithmic and constructive thinking.
 
 The best way to progress is to picking an OJ, stick with it and solve problems related to the topics you learn. 
@@ -107,7 +107,7 @@ Participate in contests and learn from other people.
 - Competitive Programming 3 
 - Competitive Programmer’s Handbook
 
-Please Use the above Links for reading about the topics mentioned below. The books are extremely helpful for implementation ideas.
+Please use the above Links for reading about the topics mentioned below. The books are extremely helpful for implementation ideas.
 
 ### Tree / Graph
 
@@ -128,16 +128,89 @@ Please Use the above Links for reading about the topics mentioned below. The boo
 	- Diameter
 	- Isomorphism
 	- Centers
-- DS/Algorithms
+- Algorithms
 	- Graph Representation
 	- BFS/DFS
 	- [BFS/DFS on Grid](https://codeforces.com/blog/entry/78827)
 	- Topological Sorting
 	- Minimum Spanning Tree
-	- Disjoint Set Union Find (DSU)
+		- Kruskal
+		- Prims
 	- Single Source Shortest Path
+		- Dijkstra
+		- 0/1 BFS
+		- Bellman Ford
+		- SPFA
 	- All Pair Shortest Path
+		- Floyd Warshall
 	- Travelling Salesman Problem
+- Data Structures
+	- Disjoint Set Union Find (DSU)
+	- Segment Tree
+	- Fenwick Tree (BIT)
+	- Trie
 
 #### Related Contests
-- [Contest 1](https://codeforces.com/contestInvitation/03cd6c537e79e4d060d3198949e66eef22c01edd)
+- [Tree-Graph Part 1](https://codeforces.com/contestInvitation/03cd6c537e79e4d060d3198949e66eef22c01edd)
+
+### DP
+
+Most of the time it is easier to write Recursion + Memo. It can be converted to iterative later as it supports more optimizations.
+
+#### Topics
+- Theory
+	- Overlapping subproblems
+	- Optimal substructure
+- Types
+	- Subsets / Subsequences
+	- Ranges 
+		- Consecutive (Subarrays / Substrings)
+		- Nested
+		- General
+	- Minimization / Maximization
+	- Counting
+	- Tracing / Building Output
+	- on Trees
+	- Probability
+	- Bitmasks
+	- Games
+- Optimizations
+
+#### Related Contests
+- [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
+- [CSES DP Section](https://cses.fi/problemset/list/)
+
+### Mathematics
+
+Eveything upto Class XII Maths and more. Discrete Mathematics forms an important part of CP related maths.
+
+#### Topics
+- Number Theory
+- Modular Arithmetic
+- Combinatorics
+- Geometry
+- Probability
+- Searching
+	- Binary Search
+	- Ternary Search
+- Game Theory
+- Important Sequences/Series/Numbers
+	- Binomial Theorem/Pascal's Triangle
+	- Stirling Numbers First and Second kind
+	- Bell Number
+	- Catalan Numbers
+
+#### References
+- Mathematical Circles: (Russian Experience) - Dmitrii Vladimirovich Fomin and Sergei Aleksandrovich Genkin
+
+### String Processing
+
+#### Topics
+- Algorithms
+	- Prefix Function
+	- String Hashing
+	- String Matching
+		- KMP
+		- Rabin-Karp
+- Data Structures
+	- Trie
