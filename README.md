@@ -4,6 +4,8 @@ The idea is to have a list of hand-picked resources, that can help everyone get 
 
 Remember that it is not necessary to go through everything. Pick whatever works for you.
 
+These are the things I know and/or have heard about.
+
 ## C++
 
 ### Reading / Watching
