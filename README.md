@@ -125,9 +125,11 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Topological Order
 	- Bipartiteness
 	- Spanning Trees
+		- Kirchoff's Theorem
 	- Diameter
 	- Isomorphism
 	- Centers
+	- Planar Graphs
 - Algorithms
 	- Graph Representation
 	- BFS/DFS
@@ -143,6 +145,9 @@ Please use the above Links for reading about the topics mentioned below. The boo
 		- SPFA
 	- All Pair Shortest Path
 		- Floyd Warshall
+			- Shortest Paths
+			- Transitive Closure
+			- Path building
 	- Travelling Salesman Problem
 - Data Structures
 	- Disjoint Set Union Find (DSU)
@@ -186,19 +191,94 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 
 #### Topics
 - Number Theory
+	- Euler's GCD algorithm (and Extended)
+	- Binary Exponentiation/Multiplication
+	- Factorisation / Divisors
+	- Sieve (Linear)
+	- Powers of Number in n!
+	- Goldbach's Conjecture
+	- Linear Diophantine Equation
+	- Euler characterstic
+	- Mobius Inversion
 - Modular Arithmetic
+	- Basic operations
+	- Modular multiplicative Inverse
+	- Fermat's Little Theorem
+	- Euler's Theorem
 - Combinatorics
+	- Factorial	
+	- nCr 
+		- 2D Table
+		- Factorial + Multiplicative Inverse
+	- Inclusion Exclusion Principle
+	- Stars and Bars
+	- Pigeon-hole Principle
+	- Counting distinct subtrees of a tree
 - Geometry
-- Probability
+	- Vector Algebra
+		- Vectors
+		- Basic operations on vectors
+		- Trigonometry
+		- Sin Law, Cosine Law
+		- Dot Product
+		- Cross Product
+		- Vector Triple Product
+		- Scalar Triple Product
+	- Points
+		- Euclidean Distance
+		- Manhattan Distance
+	- Lines
+		- Equation of Line
+		- Distance from Point to Line
+		- Line-Line intersection
+			- Parametric Form
+			- Cartesian Form
+	- Line Segments
+		- Check Intersection (Cross products)
+		- Find Intersection (Cramer's Rule)
+	- Circles
+		- Equation of Circle
+		- Construct Circle with 3 points
+		- Line and Circle Intersection
+		- Circle Circle Intersection
+			- Check Intersection (Radii and distances from center)
+			- Find Intersection (Cosine Rule and Dot product)
+		- Minimal Enclosing Circle
+			- Welzl Randomized Algorithm
+			- [Gradient Descent](https://codeforces.com/blog/entry/23554)
+	- Polygon
+		- Triangle
+			- Oriented Area of Triangle
+		- Square
+			- Check if 4 points form a square
+		- Check if point lies inside polygon
+		- Area of Polygon
+	- Closest Pair of Points problem
+- Probability / Statistics
+	- Mean, Median, Mode
+	- Bayes' Theorem
+	- Random Variable
+	- Expected Value
+	- Linearity of Expectation
+- Matrices
+	- Matrix operations
+	- Determinant
+	- Matrix exponentiation
+	- Hadamard Matrix
 - Searching
 	- Binary Search
 	- Ternary Search
-- Game Theory
-- Important Sequences/Series/Numbers
+- Important Sequences/Series/Numbers/Functions
 	- Binomial Theorem/Pascal's Triangle
 	- Stirling Numbers First and Second kind
 	- Bell Number
 	- Catalan Numbers
+	- Euler's Totient Function 
+	- Mobius Function
+- Game Theory
+	- Optimal Move
+	- Winning/Losing State
+	- Dependence on Initial/Final State
 
 #### References
 - Mathematical Circles: (Russian Experience) - Dmitrii Vladimirovich Fomin and Sergei Aleksandrovich Genkin
@@ -214,3 +294,9 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 		- Rabin-Karp
 - Data Structures
 	- Trie
+
+### Random Tasks / Tricks
+
+- Difference array, range updates in O(1)
+- Largest Rectangle in Histogram
+- Median of running data with 2 Heaps
