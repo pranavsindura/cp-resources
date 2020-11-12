@@ -108,6 +108,7 @@ Participate in contests and learn from other people.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
 - Competitive Programming 3 
 - Competitive Programmer’s Handbook
+- [Ben Qi USACO Notebook](benq_notebook.pdf)
 
 Please use the above Links for reading about the topics mentioned below. The books are extremely helpful for implementation ideas.
 
@@ -260,7 +261,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Mean, Median, Mode
 	- Bayes' Theorem
 	- Random Variable
-	- Expected Value
+	- [Expected Value](https://codeforces.com/blog/entry/62690)
 	- Linearity of Expectation
 - Matrices
 	- Matrix operations
@@ -302,3 +303,4 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 - Difference array, range updates in O(1)
 - Largest Rectangle in Histogram
 - Median of running data with 2 Heaps
+- Powers of Number in n!	
