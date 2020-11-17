@@ -187,7 +187,8 @@ Most of the time it is easier to write Recursion + Memo. It can be converted to 
 #### Related Contests
 - [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
 - [CSES DP Section](https://cses.fi/problemset/list/)
-
+- [DP (UVa) - Part 1](https://vjudge.net/contest/408423)
+- [DP (UVa) - Part 2](https://vjudge.net/contest/408428)
 ### Mathematics
 
 Eveything upto Class XII Maths and more. Discrete Mathematics forms an important part of CP related maths.
@@ -250,12 +251,15 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 			- Welzl Randomized Algorithm
 			- [Gradient Descent](https://codeforces.com/blog/entry/23554)
 	- Polygon
-		- Triangle
-			- Oriented Area of Triangle
+		- Properties
+			- Simple/Non Simple
+			- Convex/Concave
 		- Square
 			- Check if 4 points form a square
 		- Check if point lies inside polygon
-		- Area of Polygon
+		- Polygon Area
+		- Polygon Centroid
+		- Polygon cut by Line
 	- Closest Pair of Points problem
 - Probability / Statistics
 	- Mean, Median, Mode
