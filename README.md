@@ -182,7 +182,10 @@ Most of the time it is easier to write Recursion + Memo. It can be converted to 
 	- Probability
 	- Bitmasks
 	- Games
-- Optimizations
+- Optimizations/Tricks
+	- Maintain difference of 2 params instead of actual params
+	- Cyclic Dependencies + Recursion - Set value of DP to base case before recursing
+	- [SOS DP](https://codeforces.com/blog/entry/45223)
 
 #### Related Contests
 - [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
@@ -221,7 +224,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 - Geometry
 	- Vector Algebra
 		- Vectors
-		- Basic operations on vectors
+		- Vector arithmetic
 		- Trigonometry
 		- Sin Law, Cosine Law
 		- Dot Product
@@ -240,6 +243,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Line Segments
 		- Check Intersection (Cross products)
 		- Find Intersection (Cramer's Rule)
+		- Check if point lies on line segment
 	- Circles
 		- Equation of Circle
 		- Construct Circle with 3 points
@@ -256,10 +260,14 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 			- Convex/Concave
 		- Square
 			- Check if 4 points form a square
-		- Check if point lies inside polygon
 		- Polygon Area
+		- Point inside polygon
+			- Winding Number Rule
 		- Polygon Centroid
-		- Polygon cut by Line
+		- Polygon Cut by line
+		- Polygon inside polygon
+			- Repeatedly cut one polygon by other polygon
+		- Shortest Distance between 2 polygons
 	- Closest Pair of Points problem
 - Probability / Statistics
 	- Mean, Median, Mode
@@ -308,3 +316,4 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 - Largest Rectangle in Histogram
 - Median of running data with 2 Heaps
 - Powers of Number in n!	
+- Largest Area in a room from where we can see all walls
