@@ -127,12 +127,27 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Connected Components/Strongly Connected Components 
 	- Topological Order
 	- Bipartiteness
+		- Two-coloring Check
+		- Konig's Theorem
+		- Hall's Theorem
+		- Maximum Bipartite Matching
+			- Using Flows
+			- [Kuhn's Algorithm](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html)
 	- Spanning Trees
 		- Kirchoff's Theorem
 	- Diameter
 	- Isomorphism
 	- Centers
 	- Planar Graphs
+	- Flows
+		- Max-Flow and Min-Cut
+		- Maximum edge disjoint paths
+		- Maximum independent path / Maximum vertex disjoint path
+		- Maximum Bipartite Matching on Bipartite graphs
+		- Minimum edges to be removed to disconnect a graph
+		- Minimum nodes to be removed to disconnect a graph
+		- Minimum Path coverage in DAG / Vertex Disjoint Path Cover in DAG
+		- Minimum Edge cover
 - Algorithms
 	- Graph Representation
 	- BFS/DFS
@@ -151,6 +166,15 @@ Please use the above Links for reading about the topics mentioned below. The boo
 			- Shortest Paths
 			- Transitive Closure
 			- Path building
+	- Flows
+		- Max-Flow and Min-Cut
+			- [Blog 1](https://www.topcoder.com/community/competitive-programming/tutorials/maximum-flow-section-1/)
+			- [Blog 2](https://www.topcoder.com/community/competitive-programming/tutorials/maximum-flow-section-2/)
+			- Ford-Fulkerson Algorithm
+			- Edmonds-Karp Algorithm
+			- Vertex Splitting
+			- Multi Source / Multi Sink
+		- Finding the Min-Cut Edges
 	- Travelling Salesman Problem
 - Data Structures
 	- Disjoint Set Union Find (DSU)
