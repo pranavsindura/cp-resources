@@ -11,6 +11,7 @@ These are the things I know and/or have heard about.
 ### Reading / Watching
 - Let us C - Yashavant Kanetkar
 - Computer Science with C++ - Sumita Arora
+- [CodeWithHarry - C++ Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 - Standard Template Library
 	- Vector
 	- Iterators
@@ -80,6 +81,16 @@ You can register yourself on these Websites/OJs. They have a huge list of proble
 	- Topcoder SRMs (short contest)
 - [CSES Problem Set](https://cses.fi/problemset/list/)
 	- Good introductory problems
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+	- Good for Theory and Finding Topics
+	- Crap implementations dont use them!
+	- Interview related problems
+	- Interview Experiences
+- [LeetCode](https://leetcode.com/)
+	- Interview related problems
+	- Interview Experiences
+- [Binary Search](https://binarysearch.com/)
+	- Interview related problems
 
 ## Algorithms and Data Structures
 Important part of CP is to learn algorithms and techniques, practice problems, and to develop algorithmic and constructive thinking.
@@ -87,6 +98,8 @@ Important part of CP is to learn algorithms and techniques, practice problems, a
 The best way to progress is to picking an OJ, stick with it and solve problems related to the topics you learn. 
 
 Participate in contests and learn from other people.
+
+How to start? Pick first few topics from each heading and learn about them one by one.
 
 ### Reading / Watching
 - Books
@@ -139,6 +152,7 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Isomorphism
 	- Centers
 	- Planar Graphs
+	- Konig's Theorem
 	- Flows
 		- Max-Flow and Min-Cut
 		- Maximum edge disjoint paths
@@ -148,6 +162,8 @@ Please use the above Links for reading about the topics mentioned below. The boo
 		- Minimum nodes to be removed to disconnect a graph
 		- Minimum Path coverage in DAG / Vertex Disjoint Path Cover in DAG
 		- Minimum Edge cover
+		- Maximum Independent Set
+
 - Algorithms
 	- Graph Representation
 	- BFS/DFS
@@ -166,6 +182,7 @@ Please use the above Links for reading about the topics mentioned below. The boo
 			- Shortest Paths
 			- Transitive Closure
 			- Path building
+		- Shortest paths with exactly/atmost K edges (min, + multiplication)
 	- Flows
 		- Max-Flow and Min-Cut
 			- [Blog 1](https://www.topcoder.com/community/competitive-programming/tutorials/maximum-flow-section-1/)
@@ -312,6 +329,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Stirling Numbers First and Second kind
 	- Bell Number
 	- Catalan Numbers
+	- Bertrand's Ballot Theorem
 	- Euler's Totient Function 
 	- Mobius Function
 - Game Theory
