@@ -114,6 +114,11 @@ How to start? Pick first few topics from each heading and learn about them one b
 	- [Tutorials List 1](https://codeforces.com/blog/entry/57282)
 	- [Tutorials List 2](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 	- [Learning Resources from Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
+- Complexity Analysis
+	- Look up Heading "Asymptotic analysis (Big-O notation)" in the CodeChef link above
+	- [Pashka's Youtube - Algorithms, Time complexity](https://www.youtube.com/watch?v=oWgLjhM-6XE)
+	- [GeeksForGeeks - Understanding Time Complexity](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+	- [GeeksForGeeks Problem set](https://www.geeksforgeeks.org/analysis-algorithms-set-5-practice-problems/)
 
 ### References
 - [CP-Algorithms](https://cp-algorithms.com/)
@@ -134,6 +139,7 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Edge Classification
 	- Directed/Undirected
 	- Degrees
+		- Handshaking Lemma
 	- Colorings
 	- Weights
 	- Cycles
