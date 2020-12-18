@@ -255,10 +255,11 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Euler characterstic
 	- Mobius Inversion
 - Modular Arithmetic
-	- Basic operations
-	- Modular multiplicative Inverse
+	- Basic operations over modulo (+, -, \*)
+	- Modular multiplicative Inverse (/)
 	- Fermat's Little Theorem
 	- Euler's Theorem
+	- Chinese Remainder Theorem
 - Combinatorics
 	- Factorial	
 	- nCr 
