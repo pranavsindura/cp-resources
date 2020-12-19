@@ -1,12 +1,8 @@
 # Roadmap
 
-All resources are mentioned in **README.md**.
-
-This is the order in which topics are to be learnt.
-
+All resources are mentioned in **README.md**. 
+This is the order in which topics are to be learnt. 
 Never use GFG implementations. GFG is only for theory.
-
-Ask us for implementations. CP-Algorithm is preferred.
 
 - [Set up a Programming Environment](https://github.com/pranavsindura/cp-resources#environment)
 - [Learn a Language](https://github.com/pranavsindura/cp-resources#c)
