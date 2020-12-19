@@ -2,6 +2,8 @@
 
 All resources are mentioned in **README.md**.
 Order in which topics are to be learnt.
+Never use GFG implementations. GFG is only for theory.
+Ask us for implementations. CP-Algorithm is preferred.
 
 - [Set up a Programming Environment](https://github.com/pranavsindura/cp-resources#environment)
 - [Learn a Language](https://github.com/pranavsindura/cp-resources#c)
@@ -17,7 +19,7 @@ Order in which topics are to be learnt.
 		- binary_search
 		- upper_bound
 		- lower_bound
-- Binary Exponentiation
-- Modular Arithmetic
+- [Binary Exponentiation](https://github.com/pranavsindura/cp-resources#user-content-binary-exp)
+- [Modular Arithmetic](https://github.com/pranavsindura/cp-resources#user-content-modular-arithmetic)
 	- Basic operations
 	

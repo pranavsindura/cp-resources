@@ -248,7 +248,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 #### Topics
 - Number Theory
 	- Euler's GCD algorithm (and Extended)
-	- Binary Exponentiation/Multiplication
+	- [Binary Exponentiation/Multiplication](https://cp-algorithms.com/algebra/binary-exp.html) <a id="binary-exp"></a>
 	- Factorisation / Divisors
 	- Sieve (Linear)
 	- Powers of Number in n!
@@ -256,9 +256,9 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Linear Diophantine Equation
 	- Euler characterstic
 	- Mobius Inversion
-- Modular Arithmetic
-	- Basic operations over modulo (+, -, \*)
-	- Modular multiplicative Inverse (/)
+- Modular Arithmetic <a id="modular-arithmetic"></a>
+	- [Basic operations over modulo (+, -, \*)](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
+	- [Modular multiplicative Inverse (/)](https://cp-algorithms.com/algebra/module-inverse.html)
 	- Fermat's Little Theorem
 	- Euler's Theorem
 	- Chinese Remainder Theorem
