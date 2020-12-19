@@ -1,10 +1,7 @@
 # Roadmap
 
 All resources are mentioned in **README.md**.
-
-Will try to log here, in what order the topics are to be learnt.
-
-C++ oriented. If you use any other language, there are definitely similar ideas.
+Order in which topics are to be learnt.
 
 - Set up a Programming Environment
 - Learn a Language
@@ -21,3 +18,5 @@ C++ oriented. If you use any other language, there are definitely similar ideas.
 		- lower_bound
 - Binary Exponentiation
 - Modular Arithmetic
+	- Basic operations
+	

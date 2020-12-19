@@ -330,6 +330,9 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Hadamard Matrix
 - Searching
 	- Binary Search
+		- [Topcoder - Discrete Binary Search]((https://www.topcoder.com/community/competitive-programming/tutorials/binary-search))
+		- [Errichto - Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
+		- [Errichto - Binary Search Various Implementations](https://www.youtube.com/watch?v=LcWPKR1uef4&feature=youtu.be)
 	- Ternary Search
 - Important Sequences/Series/Numbers/Functions
 	- Binomial Theorem/Pascal's Triangle
@@ -337,6 +340,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Bell Number
 	- Catalan Numbers
 	- Bertrand's Ballot Theorem
+		- Reflection Principle
 	- Euler's Totient Function 
 	- Mobius Function
 - Game Theory
