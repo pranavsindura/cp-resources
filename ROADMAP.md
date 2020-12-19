@@ -7,13 +7,13 @@ Order in which topics are to be learnt.
 - [Learn a Language](https://github.com/pranavsindura/cp-resources#c)
 	- C is for fundamentals
 	- Learn C++ / Java / Python
-- [Complexity Analysis](https://github.com/pranavsindura/cp-resources#complexity-analysis)
+- [Complexity Analysis](https://github.com/pranavsindura/cp-resources#user-content-complexity-analysis)
 	- Notations
 	- Time
 	- Space
 - Searching
 	- Linear Search
-	- Binary Search
+	- [Binary Search](https://github.com/pranavsindura/cp-resources#user-content-binary-search)
 		- binary_search
 		- upper_bound
 		- lower_bound

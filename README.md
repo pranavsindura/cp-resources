@@ -114,14 +114,13 @@ How to start? Pick first few topics from each heading and learn about them one b
 	- [Tutorials List 1](https://codeforces.com/blog/entry/57282)
 	- [Tutorials List 2](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 	- [Learning Resources from Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
-- Complexity Analysis <a id="#complexity-analysis">Here</a>
+- Complexity Analysis <a id="complexity-analysis"></a>
 	- Look up Heading "Asymptotic analysis (Big-O notation)" in the CodeChef link above
 	- [NPTEL](https://www.iarcs.org.in/inoi/online-study-material/topics/efficiency.php)
 	- [mycodeschool's Youtube](https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
 	- [Pashka's Youtube - Algorithms, Time complexity](https://www.youtube.com/watch?v=oWgLjhM-6XE)
 	- [GeeksForGeeks - Understanding Time Complexity](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
 	- [GeeksForGeeks Problem set](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis)
-	- <a href="#complexity-analysis">Test</a>
 
 ### References
 - [CP-Algorithms](https://cp-algorithms.com/)
@@ -332,7 +331,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Matrix exponentiation
 	- Hadamard Matrix
 - Searching
-	- Binary Search
+	- Binary Search<a id="binary-search"></a>
 		- [Topcoder - Discrete Binary Search]((https://www.topcoder.com/community/competitive-programming/tutorials/binary-search))
 		- [Errichto - Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 		- [Errichto - Binary Search Various Implementations](https://www.youtube.com/watch?v=LcWPKR1uef4&feature=youtu.be)
