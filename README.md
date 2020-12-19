@@ -114,11 +114,13 @@ How to start? Pick first few topics from each heading and learn about them one b
 	- [Tutorials List 1](https://codeforces.com/blog/entry/57282)
 	- [Tutorials List 2](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 	- [Learning Resources from Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
-- Complexity Analysis
+- Complexity Analysis <a name="#complexity-analysis"></a>
 	- Look up Heading "Asymptotic analysis (Big-O notation)" in the CodeChef link above
+	- [NPTEL](https://www.iarcs.org.in/inoi/online-study-material/topics/efficiency.php)
+	- [mycodeschool's Youtube](https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
 	- [Pashka's Youtube - Algorithms, Time complexity](https://www.youtube.com/watch?v=oWgLjhM-6XE)
 	- [GeeksForGeeks - Understanding Time Complexity](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
-	- [GeeksForGeeks Problem set](https://www.geeksforgeeks.org/analysis-algorithms-set-5-practice-problems/)
+	- [GeeksForGeeks Problem set](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis)
 
 ### References
 - [CP-Algorithms](https://cp-algorithms.com/)
