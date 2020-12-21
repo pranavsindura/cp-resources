@@ -49,6 +49,20 @@ These are the things I know and/or have heard about.
 - [HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - [Hackerearth Basics of Programming](https://www.hackerearth.com/practice/basic-programming)
 - [Hackerrank C++ Practice](https://www.hackerrank.com/domains/cpp)
+- E-Olymp Contests
+	- [Week 1: November 2 – 8. Introduction to C language. Part 1](https://www.e-olymp.com/en/contests/17846)
+	- [Week 1: November 2 – 8. Introduction to C language. Part 2](https://www.e-olymp.com/en/contests/17846)
+	- [Week 2: November 16 – 22. Conditional statement. Part 1](https://www.e-olymp.com/en/contests/18179)
+	- [Week 2: November 16 – 22. Conditional statement. Part 2](https://www.e-olymp.com/en/contests/18180)
+	- [Week 2: November 16 – 22. Conditional statement. Part 3](https://www.e-olymp.com/en/contests/18181)
+	- [Week 3: November 23 – 29. For Loop. Part 1](https://www.e-olymp.com/en/contests/18379)
+	- [Week 3: November 23 – 29. For Loop. Part 2](https://www.e-olymp.com/en/contests/18380)
+	- [Week 4: November 30 – December 6. While Loop. Part 1](https://www.e-olymp.com/en/contests/18542)
+	- [Week 4: November 30 – December 6. While Loop. Part 2](https://www.e-olymp.com/en/contests/18543)
+	- [Week 5: December 7 - 13. Integer arrays. Part 1](https://www.e-olymp.com/en/contests/18686)
+	- [Week 5: December 7 - 13. Integer arrays. Part 2](https://www.e-olymp.com/en/contests/18687)
+	- [Week 6: December 14 - 20. Char arrays 1](https://www.e-olymp.com/en/contests/18847)
+	- [Week 7: December 21 - 27. Char arrays 2](https://www.e-olymp.com/en/contests/18848)
 
 ### References
 - [C++ Documentation](http://www.cplusplus.com/)
