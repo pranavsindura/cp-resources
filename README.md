@@ -227,14 +227,17 @@ Most of the time it is easier to write Recursion + Memo. It can be converted to 
 	- Minimization / Maximization
 	- Counting
 	- Tracing / Building Output
-	- on Trees
+	- [on Trees](https://codeforces.com/blog/entry/20935)
 	- Probability
 	- Bitmasks
 	- Games
-- Optimizations/Tricks
+- Optimizations
+	- [SOS DP](https://codeforces.com/blog/entry/45223)
+	- [Solving DP with Matrix Exponentiation](https://www.quora.com/q/threadsiiithyderabad/Solving-Dynamic-Programming-with-Matrix-Exponentiation)
+- Tricks
 	- Maintain difference of 2 params instead of actual params
 	- Cyclic Dependencies + Recursion - Set value of DP to base case before recursing
-	- [SOS DP](https://codeforces.com/blog/entry/45223)
+	
 
 #### Related Contests
 - [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
