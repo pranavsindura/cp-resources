@@ -8,6 +8,7 @@ Never use GFG implementations. GFG is only for theory.
 - [Learn a Language](https://github.com/pranavsindura/cp-resources#c)
 	- C is for fundamentals
 	- Learn C++ / Java / Python
+	- [Practice](https://github.com/pranavsindura/cp-resources#practice)
 - [Complexity Analysis](https://github.com/pranavsindura/cp-resources#user-content-complexity-analysis)
 	- Notations
 	- Time
