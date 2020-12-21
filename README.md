@@ -141,7 +141,7 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Edge Classification
 	- Directed/Undirected
 	- Degrees
-		- Handshaking Lemma
+		- [Handshaking Lemma](https://en.wikipedia.org/wiki/Handshaking_lemma)
 	- Colorings
 	- Weights
 	- Cycles
@@ -149,18 +149,18 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Topological Order
 	- Bipartiteness
 		- Two-coloring Check
-		- Konig's Theorem
-		- Hall's Theorem
+		- [Konig's Theorem](https://en.wikipedia.org/wiki/K%C5%91nig%27s_theorem_(graph_theory))
+		- [Hall's Theorem](https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture6.pdf)
 		- Maximum Bipartite Matching
 			- Using Flows
 			- [Kuhn's Algorithm](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html)
 	- Spanning Trees
-		- Kirchoff's Theorem
-	- Diameter
-	- Isomorphism
-	- Centers
+		- [Kirchoff's Theorem](https://en.wikipedia.org/wiki/Kirchhoff%27s_theorem)
+	- Tree Diameter
+	- Tree Isomorphism and Canonical Forms
+	- Tree Centers
 	- Planar Graphs
-	- Konig's Theorem
+		- Euler's Characterstic
 	- Flows
 		- Max-Flow and Min-Cut
 		- Maximum edge disjoint paths
@@ -190,6 +190,10 @@ Please use the above Links for reading about the topics mentioned below. The boo
 			- Shortest Paths
 			- Transitive Closure
 			- Path building
+			- SCC
+			- Counting Paths
+			- Checking Cycles
+			- Graph Diameter
 		- Shortest paths with exactly/atmost K edges (min, + multiplication)
 	- Flows
 		- Max-Flow and Min-Cut
@@ -237,7 +241,7 @@ Most of the time it is easier to write Recursion + Memo. It can be converted to 
 - Tricks
 	- Maintain difference of 2 params instead of actual params
 	- Cyclic Dependencies + Recursion - Set value of DP to base case before recursing
-	
+
 
 #### Related Contests
 - [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
@@ -257,13 +261,23 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Powers of Number in n!
 	- Goldbach's Conjecture
 	- Linear Diophantine Equation
-	- Euler characterstic
+	- Euler's Characterstic
 	- Mobius Inversion
+- Important Sequences/Series/Numbers/Functions
+	- Binomial Theorem/Pascal's Triangle
+	- Stirling Numbers First and Second kind
+	- Bell Number
+	- Catalan Numbers
+	- Bertrand's Ballot Theorem
+		- Reflection Principle
+	- Euler's Totient Function 
+	- Mobius Function
 - Modular Arithmetic <a id="modular-arithmetic"></a>
 	- [Basic operations over modulo (+, -, \*)](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
 	- [Modular multiplicative Inverse (/)](https://cp-algorithms.com/algebra/module-inverse.html)
 	- Fermat's Little Theorem
 	- Euler's Theorem
+	- Linear Congruence
 	- Chinese Remainder Theorem
 - Combinatorics
 	- Factorial	
@@ -275,15 +289,17 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Pigeon-hole Principle
 	- Counting distinct subtrees of a tree
 - Geometry
+	- Trigonometry
 	- Vector Algebra
-		- Vectors
 		- Vector arithmetic
-		- Trigonometry
 		- Sin Law, Cosine Law
 		- Dot Product
 		- Cross Product
 		- Vector Triple Product
 		- Scalar Triple Product
+		- Vector Basis
+			- [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
+		- Gaussian Elimination
 	- Points
 		- Euclidean Distance
 		- Manhattan Distance
@@ -307,6 +323,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 		- Minimal Enclosing Circle
 			- Welzl Randomized Algorithm
 			- [Gradient Descent](https://codeforces.com/blog/entry/23554)
+		- Tangent to a circle from a given point
 	- Polygon
 		- Properties
 			- Simple/Non Simple
@@ -317,6 +334,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 		- Point inside polygon
 			- Winding Number Rule
 		- Polygon Centroid
+			- Polygon Decomposition (into Triangles)
 		- Polygon Cut by line
 		- Polygon inside polygon
 			- Repeatedly cut one polygon by other polygon
@@ -331,6 +349,9 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 - Matrices
 	- Matrix operations
 	- Determinant
+	- Cofactors
+	- Cramer's Rule
+	- Solving System of Linear equations
 	- Matrix exponentiation
 	- Hadamard Matrix
 - Searching
@@ -339,15 +360,6 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 		- [Errichto - Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 		- [Errichto - Binary Search Various Implementations](https://www.youtube.com/watch?v=LcWPKR1uef4&feature=youtu.be)
 	- Ternary Search
-- Important Sequences/Series/Numbers/Functions
-	- Binomial Theorem/Pascal's Triangle
-	- Stirling Numbers First and Second kind
-	- Bell Number
-	- Catalan Numbers
-	- Bertrand's Ballot Theorem
-		- Reflection Principle
-	- Euler's Totient Function 
-	- Mobius Function
 - Game Theory
 	- Optimal Move
 	- Winning/Losing State
@@ -356,15 +368,19 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 #### References
 - Mathematical Circles: (Russian Experience) - Dmitrii Vladimirovich Fomin and Sergei Aleksandrovich Genkin
 
-### String Processing
+### Strings
 
 #### Topics
+- Theory
+	- Substrings
+	- Subsequences
+	- Palindromes
 - Algorithms
-	- Prefix Function
-	- String Hashing
+	- Prefix/Failure Function
 	- String Matching
 		- KMP
 		- Rabin-Karp
+	- String Hashing
 - Data Structures
 	- Trie
 
