@@ -194,21 +194,30 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Minimum Spanning Tree
 		- Kruskal
 		- Prims
-	- Single Source Shortest Path
-		- Dijkstra
-		- 0/1 BFS
-		- Bellman Ford
-		- SPFA
-	- All Pair Shortest Path
-		- Floyd Warshall
-			- Shortest Paths
-			- Transitive Closure
-			- Path building
-			- SCC
-			- Counting Paths
-			- Checking Cycles
-			- Graph Diameter
-		- Shortest paths with exactly/atmost K edges (min, + multiplication)
+		- Second MST
+	- Shortest Paths
+		- Single Source Shortest Path
+			- Dijkstra
+			- 0/1 BFS
+			- Bellman Ford
+			- SPFA
+		- All Pair Shortest Path
+			- Floyd Warshall
+				- Shortest Paths
+				- Transitive Closure
+				- Path building
+				- SCC
+				- Counting Paths
+				- Checking Cycles
+				- Graph Diameter
+			- N-Dijkstra
+		- Shortest paths with exactly / atmost K edges (min, + multiplication)
+		- K-th Shortest Paths
+			- with Dijkstra bounded by visiting each node atmost K times
+			- Cyclic Graphs
+				- Eppstein's Algorithm
+			- Non Cyclic Graphs
+				- Yen's Algorithm
 	- Flows
 		- Max-Flow and Min-Cut
 			- [Blog 1](https://www.topcoder.com/community/competitive-programming/tutorials/maximum-flow-section-1/)
@@ -267,6 +276,12 @@ Most of the time it is easier to write Recursion + Memo. It can be converted to 
 Eveything upto Class XII Maths and more. Discrete Mathematics forms an important part of CP related maths.
 
 #### Topics
+- Algebra
+	- Number System
+	- Base conversion
+	- Adders
+		- Half Adder
+		- Full Adder
 - Number Theory
 	- Euler's GCD algorithm (and Extended)
 	- [Binary Exponentiation/Multiplication](https://cp-algorithms.com/algebra/binary-exp.html) <a id="binary-exp"></a>
@@ -293,6 +308,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Euler's Theorem
 	- Linear Congruence
 	- Chinese Remainder Theorem
+	- Discrete Logarithm
 - Combinatorics
 	- Factorial	
 	- nCr 
