@@ -303,6 +303,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Mobius Function
 - Modular Arithmetic <a id="modular-arithmetic"></a>
 	- [Basic operations over modulo (+, -, \*)](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
+	- [Modular Arithmetic for Beginners](https://codeforces.com/blog/entry/72527)
 	- [Modular multiplicative Inverse (/)](https://cp-algorithms.com/algebra/module-inverse.html)
 	- Fermat's Little Theorem
 	- Euler's Theorem
