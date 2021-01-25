@@ -323,7 +323,7 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Trigonometry
 	- Vector Algebra
 		- Vector arithmetic
-		- Sin Law, Cosine Law
+		- Sine Law, Cosine Law
 		- Dot Product
 		- Cross Product
 		- Vector Triple Product
@@ -417,8 +417,9 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 
 ### Random Tasks / Tricks
 
-- Difference array, range updates in O(1)
+- [Difference array, range updates in O(1)](https://codeforces.com/blog/entry/86420)
 - Largest Rectangle in Histogram
 - Median of running data with 2 Heaps
 - Powers of Number in n!	
 - Largest Area in a room from where we can see all walls
+- Calculations involving multiplication/division (like Factorial) can be written in Prime exponent form
